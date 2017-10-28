@@ -1,0 +1,9 @@
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\bin\Debug\MyPhoto.exe.config
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\bin\Debug\MyPhoto.exe
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\bin\Debug\MyPhoto.pdb
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\obj\Debug\MyPhoto.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\obj\Debug\MyPhoto.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\obj\Debug\MyPhoto.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\obj\Debug\MyPhoto.exe
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\obj\Debug\MyPhoto.pdb
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhoto\obj\Debug\MyPhoto.MainForm.resources

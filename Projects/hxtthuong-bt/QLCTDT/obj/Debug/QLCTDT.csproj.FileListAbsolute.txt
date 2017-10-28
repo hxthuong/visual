@@ -1,0 +1,6 @@
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\QLCTDT\QLCTDT\bin\Debug\QLCTDT.exe.config
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\QLCTDT\QLCTDT\bin\Debug\QLCTDT.exe
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\QLCTDT\QLCTDT\bin\Debug\QLCTDT.pdb
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\QLCTDT\QLCTDT\obj\Debug\QLCTDT.exe
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\QLCTDT\QLCTDT\obj\Debug\QLCTDT.pdb
+c:\users\tgdd-hue\documents\visual studio 2015\Projects\QLCTDT\QLCTDT\obj\Debug\QLCTDT.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\Visual Studio 2015\Projects\MyPhoto\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb

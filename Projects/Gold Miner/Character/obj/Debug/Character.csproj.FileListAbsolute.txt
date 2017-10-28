@@ -1,0 +1,5 @@
+D:\Visual Studio 2015\Projects\Gold Miner\Character\bin\Debug\Character.dll
+D:\Visual Studio 2015\Projects\Gold Miner\Character\bin\Debug\Character.pdb
+D:\Visual Studio 2015\Projects\Gold Miner\Character\obj\Debug\Character.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Gold Miner\Character\obj\Debug\Character.dll
+D:\Visual Studio 2015\Projects\Gold Miner\Character\obj\Debug\Character.pdb

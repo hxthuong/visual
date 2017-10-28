@@ -1,0 +1,12 @@
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\bin\Debug\Dao Vang.exe.config
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\bin\Debug\Dao Vang.exe
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\bin\Debug\Dao Vang.pdb
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao Vang.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao_Vang.Form1.resources
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao_Vang.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao Vang.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao Vang.exe
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao Vang.pdb
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao_Vang.GoldMiner.resources
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao_Vang.SavePoint.resources
+D:\Visual Studio 2015\Projects\Dao Vang\Dao Vang\obj\Debug\Dao_Vang.Shop.resources

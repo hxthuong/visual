@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CTbanve.KhachHang">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>KhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTbanve.Phim">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAAABAADIAIAAAAAAAAAAAIAAAACAAAAE=</HashCode>
+      <FileName>Phim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTbanve.Ve">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAABADAABAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Ve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTbanve.HeThong">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>HeThong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,9 @@
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\bin\Debug\PhanMem.exe.config
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\bin\Debug\PhanMem.exe
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\bin\Debug\PhanMem.pdb
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\obj\Debug\PhanMem.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\obj\Debug\PhanMem.Form1.resources
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\obj\Debug\PhanMem.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\obj\Debug\PhanMem.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\obj\Debug\PhanMem.exe
+D:\Visual Studio 2015\Projects\PhanMem\PhanMem\obj\Debug\PhanMem.pdb

@@ -1,0 +1,12 @@
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\bin\Debug\Gold Miner.exe.config
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\bin\Debug\Gold Miner.exe
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\bin\Debug\Gold Miner.pdb
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\obj\Debug\Gold Miner.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\obj\Debug\Gold_Miner.Form1.resources
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\obj\Debug\Gold_Miner.Play.resources
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\obj\Debug\Gold_Miner.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\obj\Debug\Gold Miner.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\obj\Debug\Gold Miner.exe
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\obj\Debug\Gold Miner.pdb
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\bin\Debug\Items.dll
+D:\Visual Studio 2015\Projects\Gold Miner\Gold Miner\bin\Debug\Items.pdb
